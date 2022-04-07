@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "John",
+      "email": "john@gmail.com",
+      "mobile": "9797554451",
+      "salary": "12000"
+    },
+    {
+      "id": 3,
+      "firstName": "Ashish",
+      "lastName": "jain",
+      "email": "ashish@gmail.com",
+      "mobile": "8734533245",
+      "salary": "150000"
+    },
+    {
+      "id": 4,
+      "firstName": "raju",
+      "lastName": "sharma",
+      "email": "raju@gmai.com",
+      "mobile": "9876567870",
+      "salary": "20000"
+    },
+    {
+      "id": 7,
+      "firstName": "ramesh",
+      "lastName": "kumar",
+      "email": "kumar.ramesh@gmail.com",
+      "mobile": "9878451285",
+      "salary": "25000"
+    },
+    {
+      "id": 8,
+      "firstName": "Geeta",
+      "lastName": "sharma",
+      "email": "geeta@gmail.com",
+      "mobile": "9878451222",
+      "salary": "20,000"
+    },
+    {
+      "id": 9,
+      "firstName": "Raj",
+      "lastName": "Chopra",
+      "email": "chopra.raj@gmail.com",
+      "mobile": "9765451277",
+      "salary": "50000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
